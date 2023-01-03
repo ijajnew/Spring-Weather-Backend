@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 73.87,
+        "lat": 18.53
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.62,
+        "feels_like": 28.96,
+        "temp_min": 29.62,
+        "temp_max": 29.62,
+        "pressure": 1011,
+        "humidity": 37,
+        "sea_level": 1011,
+        "grnd_level": 950
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.17,
+        "deg": 37,
+        "gust": 1.72
+    },
+    "clouds": {
+        "all": 3
+    },
+    "dt": 1672143452,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1672104882,
+        "sunset": 1672144553
+    },
+    "timezone": 19800,
+    "id": 1264089,
+    "name": "Mali and Munjeri",
+    "cod": 200
+}
